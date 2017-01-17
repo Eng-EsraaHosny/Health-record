@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">"health record "</string>
+    <string name="login">"Login"</string>
+    <string name="national_id">"national id"</string>
+    <string name="password">"Password"</string>
+    <string name="signup">"Sign up"</string>
+    <string name="age">"Age"</string>
+    <string name="name">"Name"</string>
+    <string name="confirm_pass">"confirm password"</string>
+    <string name="phone">"phone number"</string>
+    <string name="email">"E-mail"</string>
+    <string name="save">"Save"</string>
+    <string name="welcome">"Welcome :"</string>
+    <string name="add.new.record">"add new record "</string>
+    <string name="date">"Date :"</string>
+    <string name="title">"Tiltle :"</string>
+    <string name="status">"Status :"</string>
+    <string name="open.record">"open record "</string>
+    <string name="dr_name">"Dr name :"</string>
+    <string name="specialization">"specialization :"</string>
+    <string name="disease">"disease :"</string>
+    <string name="cure">"cure :"</string>
+</resources>
